@@ -39,6 +39,11 @@ O projeto consiste em uma rede composta por outras 4, 1 rede metropolitana, 2 re
 | R2 ↔ R4    | 200.10.0.16/30      | R2: 200.10.0.17          | R4: 200.10.0.18          |
 | R3 ↔ R4    | 200.10.0.20/30      | R3: 200.10.0.21          | R4: 200.10.0.22          |
 
+2º O próximo passo seria configurar o protocolo OSPF na rede metropolitana, e assim foi feito, cada roteador recebeu as devidas configurações para que cada interface que pertence ao backbone metropolitano fosse configurado apropriadamente.
+
+3º Aqui então decidimos dar conta da configuração de IPs das empresas, tomando os devidos cuidados para que uma delas tivesse o range apropriado para que não extrapolassemos demais o máximo de 100 usuários enquanto na outra deveria ter pelo menos 500
+
+4º Neste momento a rede metropolitana e as redes empresariais já estavam funcionais e operável, então partimos para a rede que implementa IOT, escolhemos então alguns aparelhos IOT que faziam parte da proposta da atividade e os conectamos a um aparelho via wifi.
 
 # Autores
 
