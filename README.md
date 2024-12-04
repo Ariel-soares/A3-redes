@@ -83,4 +83,4 @@ Membros da equipe:
 - Manuelle Reis Santana - 1272116405
 - Yara Carolina Leite dos Santos - 12724136783
 - Marcela Tourinho Machado Barreto -12724139040
-- Gabriel Coutinho -
+- Gabriel Coutinho - 1272412136
